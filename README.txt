@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Pierwszy projekt na GitHub
